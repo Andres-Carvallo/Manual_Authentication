@@ -1,4 +1,4 @@
-Usuario creador para probar punto final
+Usuario creados para probar punto final
 
 Usuario 1
 email = test@example.com
