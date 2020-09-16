@@ -1,3 +1,15 @@
+Usuario creador para probar punto final
+
+Usuario 1
+email = test@example.com
+password = 123456
+
+Usuario 2
+email = test2@example.com
+password = 456789
+
+
+
 # Actividad Presencial I
 ## Autenticación Manual desde cero
 
